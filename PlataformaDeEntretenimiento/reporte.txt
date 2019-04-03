@@ -1,0 +1,12 @@
+
+ :: BOOK ::
+ Title: Book 1
+ Editorial: editorial 1
+ Edition Date: Tue Apr 02 03:17:00 ART 2019
+ Authors: 	author 0 	author 1 	author 2 
+
+ :: BOOK ::
+ Title: Book 2
+ Editorial: editorial 2
+ Edition Date: Tue Apr 02 03:17:00 ART 2019
+ Authors: 	author 0 	author 1 	author 2 
